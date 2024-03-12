@@ -1,5 +1,9 @@
 # Java Decompiler
 
+# NOTICE!!!
+
+This project would be deprecated, now this repo would be archived, the new Java Decompiler application would based on [JTQDF](https://github.com/evalexp/Java-Tool-Quick-Develop-Framework).
+
 ## Dependencies
 
 * Python 3
